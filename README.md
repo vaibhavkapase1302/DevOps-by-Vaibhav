@@ -7,6 +7,8 @@
 2. Agile Model
 3. DevOps
 
+### What is Software Dvelopment Model?
+
 ### Defference between Waterfall Model vs Agile Model vs DevOps
 <img src="https://github.com/vaibhavkapase1302/DevOps-by-Vaibhav/blob/main/waterfall-vs-agile-process-comparison.jpg" width="580" height="900" alt="Example Image">
 
