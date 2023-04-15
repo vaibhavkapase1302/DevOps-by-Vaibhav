@@ -22,8 +22,8 @@ Version Control:
 - Working Directory to Local Repository
 - Remote Repository
 - Examples:
- 1. Github
- 2. GitLab 
+  1. Github
+  2. GitLab 
 
 ## Testing:
 Selenium 
