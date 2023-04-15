@@ -12,5 +12,7 @@
 ### Defference between Waterfall Model vs Agile Model vs DevOps
 <img src="https://github.com/vaibhavkapase1302/DevOps-by-Vaibhav/blob/main/waterfall-vs-agile-process-comparison.jpg" width="580" height="900" alt="Example Image">
 
+### Why companies use DevOps rather that Waterfall and Agile Model?
+
 ## Version Control:
 * Git 
