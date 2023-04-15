@@ -32,3 +32,6 @@ Docker
 
 Terraform or Ansible
 - IaC
+
+## Monitoring:
+Argo CD
