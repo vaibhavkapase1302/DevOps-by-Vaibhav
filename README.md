@@ -17,7 +17,13 @@
 
 ## Planing:
 Git 
-- Version Control
+
+Version Control:
+- Working Directory to Local Repository
+- Remote Repository
+- Examples:
+ 1. Github
+ 2. GitLab 
 
 ## Testing:
 Selenium 
@@ -29,7 +35,6 @@ Jenkins
 Docker
 
 ## Automation
-
 Terraform or Ansible
 - IaC
 
