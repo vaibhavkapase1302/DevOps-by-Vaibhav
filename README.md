@@ -1,5 +1,6 @@
 # DevOps-by-Vaibhav
 
+## Developer + Operation = DevOps♾️
 <img src="https://github.com/vaibhavkapase1302/DevOps-by-Vaibhav/blob/main/DevOps-Lifecycle-Capabilities.png" width="700" height="400" alt="DevOps Architecture">
 
 ### Software Deployement Models:
