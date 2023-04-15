@@ -18,3 +18,17 @@
 ## Planing:
 Git 
 - Version Control
+
+## Testing:
+Selenium 
+
+## Integration
+Jenkins
+
+## Containerization 
+Docker
+
+## Automation
+
+Terraform or Ansible
+- IaC
