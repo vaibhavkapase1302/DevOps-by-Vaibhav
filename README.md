@@ -15,5 +15,6 @@
 
 ### Why companies use DevOps rather that Waterfall and Agile Model?
 
-## Version Control:
-* Git 
+## Planing:
+Git 
+- Version Control
